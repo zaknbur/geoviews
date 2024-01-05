@@ -1,7 +1,8 @@
 repo_name: zaknbur/geoviews
 report_id: 0d9b9899851ff43e3c23b452ca28c87e
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-23T15:31:30+00:00'
+timestamp: '2024-01-05T08:35:05+00:00'
 requested_by: philippjfr
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/zaknbur/geoviews
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zaknbur/geoviews
   detection_source: Repo Metadata
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -35,6 +38,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/zaknbur/geoviews/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Philipp Rudiger
   last_updated_on: 2018-10-08 23:43:17.000000000 Z
@@ -44,6 +48,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/zaknbur/geoviews/blob/master/doc/_templates/layout.html
   detection_source: doc/_templates/layout.html
   last_updated_by: Philipp Rudiger
   last_updated_on: 2018-05-11 16:17:27.000000000 Z
